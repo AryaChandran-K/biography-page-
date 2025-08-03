@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Arya Chandran K - Biography</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Arya Chandran K</h1>
+    <p>Student at Government Engineering College, Kozhikode</p>
+  </header>
+
+  <section class="bio">
+    <h2>Basic Information</h2>
+    <p><strong>Full Name:</strong> Arya Chandran K</p>
+    <p><strong>Date of Birth:</strong> 16 February 2004</p>
+    <p><strong>Age:</strong> 21 years</p>
+    <p><strong>Place of Birth:</strong> Thalassery, Kannur district, Kerala, India</p>
+  </section>
+
+  <section class="education">
+    <h2>Education</h2>
+    <p>I am currently in the 3rd year of my B.Tech degree in <strong>Applied Electronics and Instrumentation Engineering</strong> at <strong>Government Engineering College, Kozhikode</strong>. I am also pursuing a <strong>minor degree in Mechanical Engineering</strong>.</p>
+  </section>
+
+  <section class="family">
+    <h2>Family Background</h2>
+    <p>I come from a nuclear family of four members — my father, mother, sister, and myself. We are a close-knit and supportive family that values education and togetherness.</p>
+  </section>
+
+  <section class="interests">
+    <h2>Hobbies & Interests</h2>
+    <p>I am deeply interested in learning and researching topics that catch my attention. Whenever I find something new or exciting, I dive into it and try to learn as much as I can. I also enjoy listening to music in my free time. I have a strong passion for engineering and a desire to use my knowledge to support and serve my family.</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Arya Chandran K | All rights reserved</p>
+  </footer>
+</body>
+</html>
